@@ -121,6 +121,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.visily.ai/&sz=128" width="16" /> | [Visily](https://www.visily.ai/) | Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
  <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
+  <img src="https://www.google.com/s2/favicons?domain=https://hexabot.ai&sz=128" width="16" /> | [Hexabot](https://hexabot.ai) | Open-Source AI Chatbot / Agent Builder, multi-channel, multi-lingual with addons developed by the community. | No-Code Tool for quickly building AI Chatbots / Agents |
 
 **[⬆ Back to Index](#index)**
 
